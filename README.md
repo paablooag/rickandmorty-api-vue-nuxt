@@ -4,6 +4,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
+
 Make sure to install dependencies:
 
 ```bash
